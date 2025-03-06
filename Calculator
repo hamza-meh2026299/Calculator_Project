@@ -1,6 +1,19 @@
 Console.WriteLine("Name: khair muhammad hamza");
 Console.WriteLine("Roll number: 24-ST-047");
 double num3 = Convert.ToInt32(Console.ReadLine());
-double mun4 = Convert.ToInt32(Console.ReadLine());
-double subtraction = num3 + num4;
+double num4 = Convert.ToInt32(Console.ReadLine());
+double subtraction = num3 - num4;
 Console.WriteLIne($"Result: {subtraction}");
+double num5 = Convert.ToInt32(Console.ReadLine());
+double num6 = Convert.ToInt32(Console.ReadLine());
+double multiplication = num5 * num6;
+Console.WriteLIne($"Result: {multiplication}");
+double num7 = Convert.ToInt32(Console.ReadLine());
+double num8 = Convert.ToInt32(Console.ReadLine());
+double division = num7 / num8;
+Console.WriteLIne($"Result: {division}");
+
+
+
+
+
